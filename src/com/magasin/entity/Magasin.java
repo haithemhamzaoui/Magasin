@@ -16,7 +16,7 @@ public class Magasin {
 			int capaciteElectronique) {
 		this.idMagasin = idMagasin;
 		this.nomM = nomM;
-		adresse = adresse;
+		this.adresse = adresse;
 		this.capaciteVetement = capaciteVetement;
 		this.capaciteAlimentation = capaciteAlimentation;
 		this.capaciteElectronique = capaciteElectronique;

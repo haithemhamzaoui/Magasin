@@ -1,3 +1,5 @@
 package com.magasin.utils;
 
-public enum Pointure {}
+public enum Pointure {
+	
+}
