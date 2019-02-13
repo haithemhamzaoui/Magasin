@@ -24,6 +24,7 @@ protected boolean isEstFrais() {
 }
 protected void setEstFrais(boolean estFrais) {
 	this.estFrais = estFrais;
+	//test git
 }
 
 }
